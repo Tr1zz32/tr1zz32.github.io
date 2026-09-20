@@ -1,0 +1,14 @@
+Package: tcalc
+Version: 1.0.1
+Architecture: arm64
+Maintainer: Trionyx-dev
+Filename: repo/pool/main/t/tcalc/trionyx-calculator_1.0.1_arm64.deb
+Size: 3444
+MD5sum: b11b3e85ab30779a826717d6cca84f9f
+SHA1: 2ba23f377b41e8910ecc5558fe167038fb96e1c4
+SHA256: 2d63bcebe675b2921cab76e32bc6b1bb0926f7c80dd433dc04d1e6e4a5b4f01d
+Section: utils
+Priority: optional
+Description: Simple command-line calculator
+ A small calculator for GNU/Linux systems.
+
