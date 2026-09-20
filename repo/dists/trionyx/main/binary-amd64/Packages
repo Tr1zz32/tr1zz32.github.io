@@ -2,7 +2,7 @@ Package: i2-init
 Version: 0.1
 Architecture: amd64
 Maintainer: Trionyx-dev
-Filename: repo/pool/main/i/i2-init/i2-init_0.1_amd64.deb
+Filename: pool/main/i/i2-init/i2-init_0.1_amd64.deb
 Size: 249716
 MD5sum: 5c09d01cd109fc1559a8503dc6664645
 SHA1: fecc0849dea6962690f10b2a5b893b36f67a9035
