@@ -2,7 +2,7 @@ Package: tcalc
 Version: 1.0.1
 Architecture: arm64
 Maintainer: Trionyx-dev
-Filename: repo/pool/main/t/tcalc/trionyx-calculator_1.0.1_arm64.deb
+Filename: pool/main/t/tcalc/trionyx-calculator_1.0.1_arm64.deb
 Size: 3444
 MD5sum: b11b3e85ab30779a826717d6cca84f9f
 SHA1: 2ba23f377b41e8910ecc5558fe167038fb96e1c4
